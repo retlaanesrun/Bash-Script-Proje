@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo -n "Alarm kaç saniye sonra çalsın?: "
+read -r secs
+
+echo "Alarm $secs saniye sonra çalacak."
+sleep "$secs"
+echo -e "\aAlarm!"
