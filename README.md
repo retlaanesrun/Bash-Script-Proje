@@ -1,1 +1,1 @@
-# Bash-Script-Proje
+Bash Script ile basit alarm sistemi
